@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/my-first-post.md",
+                "file": "themes/LoveIt/README.zh-cn.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/my-first-post.md",
+                "file": "themes/LoveIt/README.zh-cn.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/my-first-post.md",
+                "file": "themes/LoveIt/README.zh-cn.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/my-first-post.md"
+                "file": "themes/LoveIt/README.zh-cn.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "ad45daff8f48239a",
   "lastOpenFiles": [
-    "themes/LoveIt/README.md",
     "content/posts/my-first-post.md",
+    "themes/LoveIt/README.md",
     "content/posts/First post.md"
   ]
 }
