@@ -1,8 +1,8 @@
-baseURL = 'https://davidsaiz.me/'
+baseURL = 'https://dsaizvazquez.github.io/blog/'
 languageCode = 'en-us'
 title = "Dave's internet Corner"
 description = "David's personal blog"
-theme = 'LoveIt'
+theme = 'paperMod'
 
 # language name ["English", "简体中文", "Français", "Polski", ...]
 languageName = "English"
