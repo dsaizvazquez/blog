@@ -93,7 +93,7 @@ sudo reboot
 
 After rebooting, the nvidia suite should be installed, and with the command `nvidia-smi` the following screen should appear:
 
-{{< figure src="/images/nvidia_smi.png" title="Nvidia-smi" >}}
+{{< image src="images/nvidia_smi.png" title="Nvidia-smi" >}}
 
 Our CUDA toolkit is **11.4**
 

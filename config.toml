@@ -8,12 +8,12 @@ theme = 'LoveIt'
 languageName = "English"
 
 [[module.mounts]]
-source = 'static'
-target = 'static'
+source = 'assets'
+target = 'assets'
 
 [[module.mounts]]
-source = 'images'
-target = 'static/images'
+source = 'static/images'
+target = 'assets/images'
 
 # Author config
 [author]
